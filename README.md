@@ -1,11 +1,51 @@
-<h1 align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://stackoverflow.com/users/919514/olivier"><img src="https://github-readme-stackoverflow.vercel.app/?userID=919514" /></a>
+    </td>
+    <td>
+      
+
+<!--h2 align="center">
+👋 Hi ! I'm a technologist, and an opensource enthusiast.
+</h2-->
+
+# 👋 Hi ! I'm a technologist, and an opensource enthusiast.
+
+## I mostly maintain:
+
+<ul>
+  <li>
+    
+   [![pg-mem](https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/oguimbal/pg-mem)
+    
+  [![GitHub stars](https://img.shields.io/github/stars/oguimbal/pg-mem.svg?style=social&label=Star&maxAge=2592000)  ![Downloads](https://img.shields.io/npm/dm/pg-mem.svg?style=social)](https://GitHub.com/oguimbal/pg-mem)
+  </li>
+  
+  <li>
+    
+   [![pgsql-ast-parser](https://img.shields.io/badge/pgsql--ast--parser-a%20postgres%20sql%20syntax%20parser-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/oguimbal/pgsql-ast-parser)
+    
+  [![GitHub stars](https://img.shields.io/github/stars/oguimbal/pgsql-ast-parser.svg?style=social&label=Star&maxAge=2592000)  ![Downloads](https://img.shields.io/npm/dm/pgsql-ast-parser.svg?style=social)](https://GitHub.com/oguimbal/pgsql-ast-parser)
+  </li>
+  
+  <li>
+    
+   [![pg-server](https://img.shields.io/badge/pg--server-a%20postgres%20server%20emulator%20%2F%20proxy%20%2F%20honeypot-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/oguimbal/pg-server)
+    
+  [![GitHub stars](https://img.shields.io/github/stars/oguimbal/pg-server.svg?style=social&label=Star&maxAge=2592000)  ![Downloads](https://img.shields.io/npm/dm/pg-server.svg?style=social)](https://GitHub.com/oguimbal/pg-server)
+  </li>
+</ul>
+
+
+_... among others 😀_
+      
+  </td>
+  </tr>
+</table>
+<!--h1 align="center">
   <a href="https://stackoverflow.com/users/919514/olivier"><img src="https://github-readme-stackoverflow.vercel.app/?userID=919514"></a>
-</h1>
-
-<h2 align="center">
-I'm a technologist, and an opensource enthusiast.
-</h2>
-
+</h1-->
 
 <!--
 https://github.com/Ileriayo/markdown-badges
