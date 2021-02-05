@@ -36,7 +36,7 @@ ________
     
 <h3 align="center">
   <a href="https://github.com/oguimbal/pg-mem">
-    <img src="https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-mem" />
+    <img src="https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="pg-mem" />
     <br>
    <img src="https://img.shields.io/github/stars/oguimbal/pg-mem.svg?style=social&label=Star&maxAge=2592000" />
    <img src="https://img.shields.io/npm/dm/pg-mem.svg?style=social" />
@@ -47,7 +47,7 @@ ________
     
   <h3 align="center">
     <a href="https://github.com/oguimbal/pgsql-ast-parser">
-      <img src="https://img.shields.io/badge/pgsql--ast--parser-a%20postgres%20sql%20syntax%20parser-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pgsql-ast-parser">
+      <img src="https://img.shields.io/badge/pgsql--ast--parser-a%20postgres%20sql%20syntax%20parser-%23316192.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="pgsql-ast-parser">
       <br>
      <img src="https://img.shields.io/github/stars/oguimbal/pgsql-ast-parser.svg?style=social&label=Star&maxAge=2592000">
      <img src="https://img.shields.io/npm/dm/pgsql-ast-parser.svg?style=social">
@@ -57,7 +57,7 @@ ________
     
   <h3 align="center">
     <a href="https://github.com/oguimbal/pg-server">
-      <img src="https://img.shields.io/badge/pg--server-a%20postgres%20server%20emulator%20%2F%20proxy%20%2F%20honeypot-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-server">
+      <img src="https://img.shields.io/badge/pg--server-a%20postgres%20server%20emulator%20%2F%20proxy%20%2F%20honeypot-%23316192.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="pg-server">
       <br>
      <img src="https://img.shields.io/github/stars/oguimbal/pg-server.svg?style=social&label=Star&maxAge=2592000">
      <img src="https://img.shields.io/npm/dm/pg-server.svg?style=social">
