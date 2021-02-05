@@ -90,14 +90,15 @@ ________
 </h3>
 <h3 align="center">
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Cassandra" src ="https://img.shields.io/badge/cassandra-%231287B1.svg?&style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+  <img alt="Cassandra" src ="https://img.shields.io/badge/cassandra-%231287B1.svg?&style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+  <img alt="DynamoDB" src ="https://img.shields.io/badge/Dynamodb-%234053D6.svg?&style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 
 </h3>
 
 
 <h3 align="center">
-  But I playing with/interested in...
+  But I'm playing with/interested in...
 </h3>
 <h3 align="center">
   <img alt="Haskell" src="https://img.shields.io/badge/haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
