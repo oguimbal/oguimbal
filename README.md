@@ -31,12 +31,14 @@ ________
   <h3 align="center">
     <a href="https://github.com/oguimbal/pg-mem">
       <h3>
+    <a href="https://github.com/oguimbal/pg-mem">
       <img src="https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-mem">
+        </a>
       </h3>
      <img src="https://img.shields.io/github/stars/oguimbal/pg-mem.svg?style=social&label=Star&maxAge=2592000">
      <img src="https://img.shields.io/npm/dm/pg-mem.svg?style=social">
   </a>
-   
+   </h3>
    
    
     
