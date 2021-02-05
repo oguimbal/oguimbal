@@ -1,9 +1,29 @@
 <table>
   <tr>
     <td>
-      <a href="https://stackoverflow.com/users/919514/olivier"><img src="https://github-readme-stackoverflow.vercel.app/?userID=919514" /></a>
-    </td>
-    <td>
+     
+   <a href="https://stackoverflow.com/users/919514/olivier"><img src="https://github-readme-stackoverflow.vercel.app/?userID=919514" /></a>
+   
+   <h3 align="center">
+   <a href="https://twitter.com/oguimbal">
+     <img alt="Twitter" src="https://img.shields.io/badge/@oguimbal%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+    </a>
+   </h3>
+    
+   <h3 align="center">
+   <a href="https://www.linkedin.com/in/oguimbal/">
+     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+   </h3>
+   
+   <h3 align="center">
+   <a href="https://dev.to/oguimbal">
+    <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
+    </a>
+   </h3>
+   
+  </td>
+  <td>
       
 
 <!--h2 align="center">
