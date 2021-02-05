@@ -1,3 +1,9 @@
+      
+<!--
+https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2
+https://github.com/Ileriayo/markdown-badges
+  + https://simpleicons.org/ for other icons
+-->
 
 <h2 align="center">
   👋 Hi ! I'm a technologist, and an opensource enthusiast.
@@ -28,17 +34,15 @@ ________
 
 
     
-  <h3 align="center">
-    <a href="https://github.com/oguimbal/pg-mem">
-      <h3>
-    <a href="https://github.com/oguimbal/pg-mem">
-      <img src="https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-mem">
-        </a>
-      </h3>
-     <img src="https://img.shields.io/github/stars/oguimbal/pg-mem.svg?style=social&label=Star&maxAge=2592000">
-     <img src="https://img.shields.io/npm/dm/pg-mem.svg?style=social">
+<h3 align="center">
+  <a href="https://github.com/oguimbal/pg-mem">
+    <h3>
+      <img src="https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-mem" />
+    </h3>
+   <img src="https://img.shields.io/github/stars/oguimbal/pg-mem.svg?style=social&label=Star&maxAge=2592000" />
+   <img src="https://img.shields.io/npm/dm/pg-mem.svg?style=social" />
   </a>
-   </h3>
+ </h3>
    
    
     
@@ -72,11 +76,6 @@ ________
       
 
 ________  
-      
-<!--
-https://github.com/Ileriayo/markdown-badges
-  + https://simpleicons.org/ for other icons
--->
 
 <h3 align="center">
   I usualy prefer...
