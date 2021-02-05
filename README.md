@@ -26,39 +26,58 @@
   <td>
       
 
-<!--h2 align="center">
-👋 Hi ! I'm a technologist, and an opensource enthusiast.
-</h2-->
 
-# 👋 Hi ! I'm a technologist, and an opensource enthusiast.
-
-## I mostly maintain:
-
-<ul>
-  <li>
-    
-   [![pg-mem](https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/oguimbal/pg-mem)
-    
-  [![GitHub stars](https://img.shields.io/github/stars/oguimbal/pg-mem.svg?style=social&label=Star&maxAge=2592000)  ![Downloads](https://img.shields.io/npm/dm/pg-mem.svg?style=social)](https://GitHub.com/oguimbal/pg-mem)
-  </li>
-  
-  <li>
-    
-   [![pgsql-ast-parser](https://img.shields.io/badge/pgsql--ast--parser-a%20postgres%20sql%20syntax%20parser-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/oguimbal/pgsql-ast-parser)
-    
-  [![GitHub stars](https://img.shields.io/github/stars/oguimbal/pgsql-ast-parser.svg?style=social&label=Star&maxAge=2592000)  ![Downloads](https://img.shields.io/npm/dm/pgsql-ast-parser.svg?style=social)](https://GitHub.com/oguimbal/pgsql-ast-parser)
-  </li>
-  
-  <li>
-    
-   [![pg-server](https://img.shields.io/badge/pg--server-a%20postgres%20server%20emulator%20%2F%20proxy%20%2F%20honeypot-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/oguimbal/pg-server)
-    
-  [![GitHub stars](https://img.shields.io/github/stars/oguimbal/pg-server.svg?style=social&label=Star&maxAge=2592000)  ![Downloads](https://img.shields.io/npm/dm/pg-server.svg?style=social)](https://GitHub.com/oguimbal/pg-server)
-  </li>
-</ul>
+<h2 align="center">
+  👋 Hi ! I'm a technologist, and an opensource enthusiast.
+</h2>
 
 
-_... among others 😀_
+
+<h3 align="center">
+  I mostly maintain:
+</h3>
+
+
+    
+  <h3 align="center">
+    <a href="https://github.com/oguimbal/pg-mem">
+      <h3>
+      <img src="https://img.shields.io/badge/pg--mem-an%20in%20memory%20postgres%20emulator%20(for%20unit%20tests)-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-mem">
+      </h3>
+     <img src="https://img.shields.io/github/stars/oguimbal/pg-mem.svg?style=social&label=Star&maxAge=2592000">
+     <img src="https://img.shields.io/npm/dm/pg-mem.svg?style=social">
+  </a>
+   
+   
+   
+    
+  <h3 align="center">
+    <a href="https://github.com/oguimbal/pgsql-ast-parser">
+      <h3>
+      <img src="https://img.shields.io/badge/pgsql--ast--parser-a%20postgres%20sql%20syntax%20parser-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pgsql-ast-parser">
+      </h3>
+     <img src="https://img.shields.io/github/stars/oguimbal/pgsql-ast-parser.svg?style=social&label=Star&maxAge=2592000">
+     <img src="https://img.shields.io/npm/dm/pgsql-ast-parser.svg?style=social">
+  </a>
+   
+   
+    
+  <h3 align="center">
+    <a href="https://github.com/oguimbal/pg-server">
+      <h3>
+      <img src="https://img.shields.io/badge/pg--server-a%20postgres%20server%20emulator%20%2F%20proxy%20%2F%20honeypot-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="pg-server">
+      </h3>
+     <img src="https://img.shields.io/github/stars/oguimbal/pg-server.svg?style=social&label=Star&maxAge=2592000">
+     <img src="https://img.shields.io/npm/dm/pg-server.svg?style=social">
+  </a>
+   
+   
+   
+<h3 align="center">
+  <i>... among others 😀</i>
+</h3>
+
+
       
   </td>
   </tr>
@@ -73,7 +92,7 @@ https://github.com/Ileriayo/markdown-badges
 -->
 
 <h3 align="center">
-  I prefer...
+  I usualy prefer...
 </h3>
 <h3 align="center">
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -95,7 +114,7 @@ https://github.com/Ileriayo/markdown-badges
 
 
 <h3 align="center">
-  I'm playing with/interested in...
+  But I playing with/interested in...
 </h3>
 <h3 align="center">
   <img alt="Haskell" src="https://img.shields.io/badge/haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
@@ -105,6 +124,10 @@ https://github.com/Ileriayo/markdown-badges
   <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
    <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
+</h3>
+
+<h3 align="center">
+  ...so I may switch to one of those soon
 </h3>
 
 <h3 align="center">
