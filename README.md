@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">
   <a href="https://stackoverflow.com/users/919514/olivier"><img src="https://github-readme-stackoverflow.vercel.app/?userID=919514"></a>
 </h1>
