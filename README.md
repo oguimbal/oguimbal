@@ -6,7 +6,7 @@ https://github.com/Ileriayo/markdown-badges
 -->
 
 <h2 align="center">
-  👋 Hi ! I'm a technologist, and an opensource enthusiast.
+  👋 Hi ! I'm Olivier, CTO, and an opensource enthusiast.
 </h2>
 
 <p align="center">
